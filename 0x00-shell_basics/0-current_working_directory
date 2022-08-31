@@ -1,7 +1,6 @@
 #!/bin/bash
 
-path=’readlink -f “${BASH_SOURCE:-$0}”’
+pwd'>directory_file
 
-echo $path
 
 
